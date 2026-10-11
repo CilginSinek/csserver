@@ -1,0 +1,25 @@
+# Local credentials: commit only the template.
+.env*
+!.env.example
+
+# Runtime database, generated credentials, logs and process state.
+/data/
+/logs/
+/run/
+
+# SteamCMD, downloaded packages, installed HLDS tree and local 32-bit runtime.
+/downloads/
+/server/
+/runtime/
+
+# Python/compiler output and editor/OS noise.
+__pycache__/
+*.py[cod]
+*.amxx
+*.amx
+*.o
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

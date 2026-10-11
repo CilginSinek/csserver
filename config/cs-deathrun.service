@@ -1,0 +1,19 @@
+[Unit]
+Description=ReHLDS CS 1.6 Deathrun and account service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=sinek
+WorkingDirectory=/home/sinek/csserver
+ExecStart=/usr/bin/python3 /home/sinek/csserver/tools/server.py run
+Restart=on-failure
+RestartSec=5
+KillMode=mixed
+TimeoutStopSec=20
+UMask=0077
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,59 @@
+{
+  "rehlds": {
+    "version": "3.15.0.896",
+    "url": "https://github.com/rehlds/ReHLDS/releases/download/3.15.0.896/rehlds-bin-3.15.0.896.zip",
+    "sha256": "997baeb7ef3842dab3e034d82dc651ebfe560c23b158adce660a6b97976b4e2b"
+  },
+  "regamedll": {
+    "version": "5.30.0.814",
+    "url": "https://github.com/rehlds/ReGameDLL_CS/releases/download/5.30.0.814/regamedll-bin-5.30.0.814.zip",
+    "sha256": "457f5c96a4d10280fcad47f106cbd5be86363a47df1ccab91c514e9d1bc6fd18"
+  },
+  "metamod": {
+    "version": "1.3.0.149",
+    "url": "https://github.com/rehlds/Metamod-R/releases/download/1.3.0.149/metamod-bin-1.3.0.149.zip",
+    "sha256": "ede7f59c4e0220afe8c02aa348a130cce527f87d36ffdb674e37a501ce57be94"
+  },
+  "reapi": {
+    "version": "5.29.0.358",
+    "url": "https://github.com/rehlds/ReAPI/releases/download/5.29.0.358/reapi-bin-5.29.0.358.zip",
+    "sha256": "f33a7435540bea8706db3fa948e51a85b511f5b18c383b97402a204dc5419195"
+  },
+  "reunion": {
+    "version": "0.2.0.25",
+    "url": "https://github.com/rehlds/ReUnion/releases/download/0.2.0.25/reunion-0.2.0.25.zip",
+    "sha256": "0f238276719274216bd169c578eac2db4e041946b8b9f0e407e41ef9d85efdf5"
+  },
+  "amxx_base": {
+    "version": "1.10.0.5486",
+    "url": "https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5486-base-linux.tar.gz",
+    "sha256": "9f5041325cc656dcc292cafb9d2c9cb4deeedb57192d8a7ed43947530e04e5b7"
+  },
+  "amxx_cstrike": {
+    "version": "1.10.0.5486",
+    "url": "https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5486-cstrike-linux.tar.gz",
+    "sha256": "686d875010792d84ac765d2f78af227ab7000c9b567995ea56b836e0a41fc7a7"
+  },
+  "steamcmd": {
+    "version": "Valve rolling",
+    "url": "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz",
+    "sha256": "cebf0046bfd08cf45da6bc094ae47aa39ebf4155e5ede41373b579b8f1071e7c"
+  },
+  "map": {
+    "version": "deathrun_temple (xPaw)",
+    "mapname": "deathrun_temple",
+    "url": "https://all-cs.ru/download/cs16/maps/deathrun/deathrun_temple.zip",
+    "sha256": "ca45b3645a910ad5426def2739b97aaa64be874854c20ee131c5843ac1e53b10"
+  },
+  "map_jail": {
+    "version": "jail_buyukisyan_dark (aLoNeDaRK, 2013)",
+    "mapname": "jail_buyukisyan_dark",
+    "url": "https://all-cs.ru/download/cs16/maps/jail/jail_buyukisyan_dark.zip",
+    "sha256": "8ed25825e033ca3dde4a12f0d4eb4976b8e2cfe5cb7d500cd45fd3c58f60bd72"
+  },
+  "asset_parachute": {
+    "version": "GameBanana model 3225, parachute_models_2_models.zip",
+    "url": "https://gamebanana.com/dl/34747",
+    "sha256": "967fb80d37e85601db5b18594bab59f04e42846371d5082d4aedb5920ffc9cdd"
+  }
+}
